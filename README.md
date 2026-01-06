@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Offex.j6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyaneshnaidu/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JyaneshN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alubillijyaneswarrao@gmail.com) [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/https://drive.google.com/drive/folders/1dxYpiTGzcH1qYSMVLS9yJ0t8BOdKxr9u?usp=sharing)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Offex.j6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyaneshnaidu/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JyaneshN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alubillijyaneswarrao@gmail.com) [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1dxYpiTGzcH1qYSMVLS9yJ0t8BOdKxr9u?usp=sharing)
 
 
 # 💻 Tech Stack:
